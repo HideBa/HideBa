@@ -2,7 +2,6 @@
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HideBa&repo=soroha-api)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HideBa&repo=soroha-web)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HideBa&repo=tabelog_nlp)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HideBa)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=HideBa&layout=compact)
 <!--
 **HideBa/HideBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
