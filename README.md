@@ -1,7 +1,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=HideBa)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HideBa&repo=soroha-api)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HideBa&repo=soroha-web)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HideBa&repo=tabelog-nlp)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=HideBa&repo=tabelog_nlp)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HideBa)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=HideBa&layout=compact)
 <!--
