@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HideBa</h1>
-<h3 align="center">A passionate full stack developer from Japan</h3>
+<h3 align="center">A passionate full stack / WebGIS developer from Japan</h3>
 
 
 ### 🏆 Trophy 🏆 :
