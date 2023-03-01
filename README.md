@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hideba&show_icons=true&locale=en" alt="hideba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hideba&" alt="hideba" /></p>
+
+<a target="_blank" href="https://verified.sertifier.com/en/verify/18609923100660?ref=email">
+ <img src="https://verified-bucket.s3.eu-central-1.amazonaws.com/badge/18609923100660.png" alt="">
+</a>
