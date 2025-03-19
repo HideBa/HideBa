@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HideBa</h1>
 <h3 align="center">A passionate full stack / WebGIS developer from Japan</h3>
-
+![](https://hit.yhype.me/github/profile?account_id=49897538)
 
 ### 🏆 Trophy 🏆 :
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hideba" alt="hideba" /></a> </p>
