@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Re:Earth](https://reearth.io/)
 
-- 🌱 I’m currently learning **Ocaml, Rust, etc**
+- 🌱 I’m currently learning **Ocaml, etc**
 
 - 💬 Ask me about **React, TypeScript, Go, Ruby, Python, DevOps**
 
