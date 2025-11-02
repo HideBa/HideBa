@@ -13,10 +13,13 @@
 
 ```javascript
 const hideba = {
-  code: [Rust, C++, TypeSript, Go, Python, etc],
-  tools: [React, GitHub Actions, ],
-  expertise: [GIS, Web, Project management, Cloud Architecture, Computational Geometry, etc],
-  challenge: "PhD candidate in TU Delft 🐴"
+  code: [Rust, C++, TypeScript, Go, Python, etc.],
+  frameworks_libraries: [React, Hono, GeoPandas, etc.],
+  databases: [PostgreSQL, MySQL, DuckDB, MongoDB, etc.],
+  cloud: [GCP, GitHub Actions, etc.],
+  expertise: [GIS, Web, Project Management, Cloud Architecture, Computational Geometry, etc.],
+  challenge: "PhD candidate at TU Delft 🐴",
+  commitment: "Core contributor to the CityJSON libraries"
 }
 ```
 
