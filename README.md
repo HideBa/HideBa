@@ -22,6 +22,4 @@ const hideba = {
 
 ![](https://hit.yhype.me/github/profile?account_id=49897538)
 
-<h3 align="left">Connect with me:</h3>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hideba&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=10&hide=html,CSS,jupyter%20notebook,makefile,cmake,tex)](https://github.com/hideba/github-readme-stats)
